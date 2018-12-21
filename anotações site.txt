@@ -1,0 +1,25 @@
+Pagina inicial - Cellere
+Institucional
+Informações de produtos e serviços
+Contatos
+
+Slide 53 - Posicionamento Estratégico
+
+Inserir Logos Cellere
+
+RH Informa - Layout de comunicação do e-mail
+
+Comandos Git:
+
+cd projeto
+
+git add . - adicionar
+
+git status - mostrar
+
+git commit -m "o que atualizou" - 
+
+git push - enviar arquivo atualizado
+
+git pull - pegar o arquivo atualizado
+
