@@ -987,7 +987,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #18d26e;
+  color: #730d0d;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
@@ -1031,7 +1031,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients .owl-dot.active {
-  background-color: #18d26e;
+  background-color: #730d0d;
 }
 
 /* Testimonials Section
@@ -1109,7 +1109,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-  background-color: #18d26e;
+  background-color: #730d0d;
 }
 
 /* Team Section
@@ -1223,7 +1223,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #18d26e;
+  color: #730d0d;
 }
 
 #contact .contact-address, #contact .contact-phone, #contact .contact-email {
@@ -1245,7 +1245,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .form #sendmessage {
   color: #18d26e;
-  border: 1px solid #18d26e;
+  border: 1px solid #730d0d;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1322,7 +1322,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
-  border-left: 4px solid #18d26e;
+  border-left: 4px solid #730d0d;
 }
 
 #footer .footer-top .footer-info p {
@@ -1376,7 +1376,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top h4::after {
-  background: #18d26e;
+  background: #730d0d;
   width: 60px;
 }
 
@@ -1409,7 +1409,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #18d26e;
+  color: #730d0d;
 }
 
 #footer .footer-top .footer-contact {
